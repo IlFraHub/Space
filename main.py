@@ -1,7 +1,3 @@
-
-
-def main():
-    pass
 def calcolatrice():
     domanda = input("che operazione desideri effettuare? rispondi utilizzando i seguenti operatori (+  -  /  * )\n" )
     a = int(input("inserici il primo valore \n"))
